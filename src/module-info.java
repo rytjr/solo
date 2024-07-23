@@ -1,0 +1,2 @@
+module distance2 {
+}
